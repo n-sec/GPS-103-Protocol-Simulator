@@ -1,4 +1,0 @@
-#Tue Jun 11 17:31:53 BRT 2019
-base.0=/home/gerson/projects/tracker/device/build/app/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
